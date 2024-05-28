@@ -1,16 +1,14 @@
-## Hi there 👋
+### seja bem-vindo ao meu perfil💙
 
-<!--
-**MoniqueRos/MoniqueRos** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+meu nome é monique
+- estou estudando na Alura
+- estou me desenvolvendo na linguagem Javascript
+- Utilizo esse espaço para minha organização e compartilhamento dos meus projetos desenvolvidos
+  
 
-Here are some ideas to get you started:
+### você pode entrar em contato comigo 📫
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+moniques1107@gamail.com
+
+
+![image](https://github.com/MoniqueRos/MoniqueRos/assets/171054230/d51ddfb3-7355-4294-82c9-d3cb90cb0d94)
